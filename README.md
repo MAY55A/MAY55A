@@ -69,7 +69,7 @@ I'm a junior developer passionate about building real projects, learning new tec
 - **Linkedin:** [mayssa ghanmi](https://www.linkedin.com/in/mayssa-ghanmi-a85369276/)
 - **Email:** mayssagnm@gmail.com
 
+---
 
-
-
-![](https://komarev.com/ghpvc/?username=MAY55A&color=green&style=pixel)
+## 📊 Some Stats
+![](https://komarev.com/ghpvc/?username=MAY55A&color=green) (starting from December 2025)
