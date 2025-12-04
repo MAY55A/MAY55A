@@ -72,4 +72,6 @@ I'm a junior developer passionate about building real projects, learning new tec
 ---
 
 ## 📊 Some Stats
+[![GitHub Streak](https://github-readme-streak-stats-orcin-nine.vercel.app?user=MAY55A&theme=tokyonight&card_width=1000)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=MAY55A&color=green) (starting from December 2025)
