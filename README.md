@@ -34,6 +34,9 @@ I'm a junior developer passionate about building real projects, learning new tec
 ### **Databases & Cloud**
 - `MySQL`, `Supabase`, `Firebase`
 
+### **Automation**
+- `UiPath Studio`, `UiPath Assistant`, `UiPath Orchestrator`
+
 ### **Tools & Platforms**
 - `Git` & `GitHub`
 - `Linux`
