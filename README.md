@@ -1,15 +1,15 @@
 <div align="center">
 
 ```python
-                        ,---.    ,---.   ____       ____     __ ,--------. ,--------.     ____     
-                        |    \  /    | .'  __ `.    \   \   /  /|   _____| |   _____|   .'  __ `.  
-                        |  ,  \/  ,  |/   '  \  \    \  _. /  ' |  )       |  )        /   '  \  \ 
-                        |  |\_   /|  ||___|  /  |     _( )_ .'  |  '----.  |  '----.   |___|  /  | 
-                        |  _( )_/ |  |   _.-`   | ___(_ o _)'   |_.._ _  '.|_.._ _  '.    _.-`   | 
-                        | (_ o _) |  |.'   _    ||   |(_,_)'       ( ' )   \  ( ' )   \.'   _    | 
-                        |  (_,_)  |  ||  _( )_  ||   `-'  /      _(_{;}_)  |_(_{;}_)  ||  _( )_  | 
-                        |  |      |  |\ (_ o _) / \      /      |  (_,_)  /|  (_,_)  / \ (_ o _) / 
-                        '--'      '--' '.(_,_).'   `-..-'        `...__..'  `...__..'   '.(_,_).'  
+,---.    ,---.   ____       ____     __ ,--------. ,--------.     ____     
+|    \  /    | .'  __ `.    \   \   /  /|   _____| |   _____|   .'  __ `.  
+|  ,  \/  ,  |/   '  \  \    \  _. /  ' |  )       |  )        /   '  \  \ 
+|  |\_   /|  ||___|  /  |     _( )_ .'  |  '----.  |  '----.   |___|  /  | 
+|  _( )_/ |  |   _.-`   | ___(_ o _)'   |_.._ _  '.|_.._ _  '.    _.-`   | 
+| (_ o _) |  |.'   _    ||   |(_,_)'       ( ' )   \  ( ' )   \.'   _    | 
+|  (_,_)  |  ||  _( )_  ||   `-'  /      _(_{;}_)  |_(_{;}_)  ||  _( )_  | 
+|  |      |  |\ (_ o _) / \      /      |  (_,_)  /|  (_,_)  / \ (_ o _) / 
+'--'      '--' '.(_,_).'   `-..-'        `...__..'  `...__..'   '.(_,_).'  
 ```
  
 **Junior Developer · Full-Stack · AI · Mobile · Game Dev**
@@ -73,7 +73,6 @@ Currently leveling up in:
 |---|---|---|
 | IBM AI Engineer Professional Certificate | IBM | *In progress* |
 | MongoDB Associate Developer | MongoDB | Apr 2026 |
-| n8n: No Code AI Agent Builder | n8n | Feb 2026 |
 | UiPath Certified Professional Automation Developer Associate | UiPath | Jan 2026 |
 | Aviatrix Certified Engineer – Multicloud Network Associate (ACE) | Aviatrix | Aug 2025 |
 | English Language Certificate – C1 Level | Imperial English UK | Apr 2025 |
